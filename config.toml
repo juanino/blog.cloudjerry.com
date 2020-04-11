@@ -1,13 +1,13 @@
 baseURL = "http://cloudjerry.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Cloud Jerry"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Cloud Jerry"
+    description = "Personal blog"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -28,7 +28,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
+    url = "/post/"
     name = "Posts"
     weight = 3
 
