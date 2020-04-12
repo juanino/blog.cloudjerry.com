@@ -5,3 +5,4 @@ draft: false
 ---
 
 About me
+![dog pic](/img/IMG_3114.jpeg)
